@@ -5,6 +5,8 @@
 - 📫 How to reach me You won't, but you can watch me on twitch and youtube
 - ⚡ Fun fact: I'm a human
 
+- 📫 Join me on my/our journey here: https://discord.gg/9WjMyFnGeM
+
 <!---
 Martincz7578/Martincz7578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
