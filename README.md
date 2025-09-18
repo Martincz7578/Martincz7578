@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in Cpp, Py, C, HTML
-- 🌱 I’m currently learning Cpp, Py, C, HTML
+- 👀 I’m interested in <strong> LINUX </strong>
+- 🌱 I’m currently learning C/C++, Java, JS and many more!!!
 - 💞️ I’m looking to collaborate on Nothing :)
 - 📫 How to reach me You won't, but you can watch me on twitch and youtube
 - ⚡ Fun fact: I'm a human
