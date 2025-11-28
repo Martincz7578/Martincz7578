@@ -6,7 +6,7 @@ I'm <strong>Martincz7578</strong> or you can call me <strong>RUN1</strong>. I'm 
 - 📫 Join me on my/our journey here: https://discord.gg/9WjMyFnGeM
 
 ---
-If you like C++ look at: <a href="https://github.com/Martincz7578/CPP-Tutorials">C++ Tutorials</a> or <a href="https://github.com/Martincz7578/CPP-Headers">My headers</a>
+If you like C++ look at: <a href="https://github.com/Martincz7578/CPP-Tutorials">C++ Tutorials</a> or <a href="https://github.com/Martincz7578/CPP-Headers">My headers</a> <br>
 For TypeScript check you my game: <a href="https://github.com/Martincz7578/CodingGod">CodingGod</a>
 
 ---
